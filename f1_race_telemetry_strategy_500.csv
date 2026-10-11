@@ -1,0 +1,501 @@
+Race_ID,Circuit_Name,Driver_Name,Constructor,Tyre_Compound,Current_Lap,Lap_Time_Sec,Tyre_Life_Pct,Pit_Stops_Count,Weather_Condition,Position
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,1,73.768,87,0,Dry,1
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Soft,1,73.882,83,0,Dry,2
+MON_2026,Monaco,George Russell,Mercedes,Soft,1,73.903,81,0,Dry,3
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,1,73.913,84,0,Dry,4
+MON_2026,Monaco,Charles Leclerc,Ferrari,Soft,1,74.069,81,0,Dry,5
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Soft,1,74.152,79,0,Dry,6
+MON_2026,Monaco,Lando Norris,McLaren,Soft,1,74.157,78,0,Dry,7
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Soft,1,74.208,80,0,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,1,74.217,81,0,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,1,74.496,86,0,Dry,10
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Soft,2,74.15,67,0,Dry,1
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,2,74.274,76,0,Dry,2
+MON_2026,Monaco,Charles Leclerc,Ferrari,Soft,2,74.087,68,0,Dry,3
+MON_2026,Monaco,George Russell,Mercedes,Soft,2,74.271,69,0,Dry,4
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,2,74.378,73,0,Dry,5
+MON_2026,Monaco,Lando Norris,McLaren,Soft,2,74.376,62,0,Dry,6
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,2,74.647,66,0,Dry,7
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Soft,2,74.717,67,0,Dry,8
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Soft,2,74.778,67,0,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,2,74.682,73,0,Dry,10
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,3,74.774,64,0,Dry,1
+MON_2026,Monaco,Charles Leclerc,Ferrari,Soft,3,74.762,55,0,Dry,2
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,3,74.835,62,0,Dry,3
+MON_2026,Monaco,George Russell,Mercedes,Soft,3,75.021,58,0,Dry,4
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Soft,3,75.231,54,0,Dry,5
+MON_2026,Monaco,Lando Norris,McLaren,Soft,3,75.085,51,0,Dry,6
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,3,75.375,54,0,Dry,7
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Soft,3,75.359,52,0,Dry,8
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Soft,3,75.437,50,0,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,3,75.47,57,0,Dry,10
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,4,74.891,48,0,Dry,1
+MON_2026,Monaco,Charles Leclerc,Ferrari,Soft,4,75.415,40,0,Dry,2
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,4,75.31,51,0,Dry,3
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Soft,4,75.446,41,0,Dry,4
+MON_2026,Monaco,George Russell,Mercedes,Soft,4,75.756,42,0,Dry,5
+MON_2026,Monaco,Lando Norris,McLaren,Soft,4,75.819,35,0,Dry,6
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Soft,4,75.913,39,0,Dry,7
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Soft,4,75.98,33,0,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,4,76.287,42,0,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,4,76.292,44,0,Dry,10
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,5,76.168,33,0,Dry,1
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,5,75.78,38,0,Dry,2
+MON_2026,Monaco,Charles Leclerc,Ferrari,Soft,5,76.236,25,0,Dry,3
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Soft,5,76.274,25,0,Dry,4
+MON_2026,Monaco,George Russell,Mercedes,Soft,5,76.076,27,0,Dry,5
+MON_2026,Monaco,Lando Norris,McLaren,Soft,5,76.432,24,0,Dry,6
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Soft,5,76.801,25,0,Dry,7
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,5,76.523,31,0,Dry,8
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Soft,5,76.853,18,0,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,5,76.527,32,0,Dry,10
+MON_2026,Monaco,Oscar Piastri,McLaren,Soft,6,76.607,16,0,Dry,1
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Soft,6,76.266,26,0,Dry,2
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Soft,6,76.912,18,0,Dry,3
+MON_2026,Monaco,Lance Stroll,Aston Martin,Soft,6,77.558,17,0,Dry,4
+MON_2026,Monaco,Charles Leclerc,Ferrari,Hard,6,95.91,100,1,Dry,5
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Hard,6,95.758,100,1,Dry,6
+MON_2026,Monaco,George Russell,Mercedes,Hard,6,96.136,100,1,Dry,7
+MON_2026,Monaco,Lando Norris,McLaren,Hard,6,95.629,100,1,Dry,8
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Hard,6,96.26,100,1,Dry,9
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Hard,6,96.318,100,1,Dry,10
+MON_2026,Monaco,Charles Leclerc,Ferrari,Hard,7,73.035,94,1,Dry,1
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Hard,7,73.064,94,1,Dry,2
+MON_2026,Monaco,George Russell,Mercedes,Hard,7,73.546,92,1,Dry,3
+MON_2026,Monaco,Lando Norris,McLaren,Hard,7,73.217,92,1,Dry,4
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Hard,7,95.601,100,1,Dry,5
+MON_2026,Monaco,Oscar Piastri,McLaren,Hard,7,96.011,100,1,Dry,6
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Hard,7,73.715,92,1,Dry,7
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Hard,7,73.844,95,1,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Hard,7,96.017,100,1,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Hard,7,96.384,100,1,Dry,10
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Hard,8,73.459,88,1,Dry,1
+MON_2026,Monaco,Charles Leclerc,Ferrari,Hard,8,73.776,87,1,Dry,2
+MON_2026,Monaco,George Russell,Mercedes,Hard,8,73.27,85,1,Dry,3
+MON_2026,Monaco,Lando Norris,McLaren,Hard,8,73.588,85,1,Dry,4
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Hard,8,73.244,92,1,Dry,5
+MON_2026,Monaco,Oscar Piastri,McLaren,Hard,8,73.226,92,1,Dry,6
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Hard,8,74.009,85,1,Dry,7
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Hard,8,73.943,89,1,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Hard,8,73.777,95,1,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Hard,8,73.592,95,1,Dry,10
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Hard,9,73.598,83,1,Dry,1
+MON_2026,Monaco,Charles Leclerc,Ferrari,Hard,9,73.694,80,1,Dry,2
+MON_2026,Monaco,George Russell,Mercedes,Hard,9,73.889,79,1,Dry,3
+MON_2026,Monaco,Lando Norris,McLaren,Hard,9,74.03,79,1,Dry,4
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Hard,9,73.858,85,1,Dry,5
+MON_2026,Monaco,Oscar Piastri,McLaren,Hard,9,73.681,84,1,Dry,6
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Hard,9,74.19,80,1,Dry,7
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Hard,9,73.949,82,1,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Hard,9,73.759,88,1,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Hard,9,74.237,88,1,Dry,10
+MON_2026,Monaco,Max Verstappen,Red Bull Racing,Hard,10,73.85,76,1,Dry,1
+MON_2026,Monaco,Charles Leclerc,Ferrari,Hard,10,74.021,75,1,Dry,2
+MON_2026,Monaco,George Russell,Mercedes,Hard,10,74.208,72,1,Dry,3
+MON_2026,Monaco,Lando Norris,McLaren,Hard,10,74.162,73,1,Dry,4
+MON_2026,Monaco,Lewis Hamilton,Ferrari,Hard,10,73.759,80,1,Dry,5
+MON_2026,Monaco,Oscar Piastri,McLaren,Hard,10,74.011,77,1,Dry,6
+MON_2026,Monaco,Kimi Antonelli,Mercedes,Hard,10,74.069,75,1,Dry,7
+MON_2026,Monaco,Fernando Alonso,Aston Martin,Hard,10,74.481,74,1,Dry,8
+MON_2026,Monaco,Liam Lawson,Red Bull Racing,Hard,10,74.162,80,1,Dry,9
+MON_2026,Monaco,Lance Stroll,Aston Martin,Hard,10,74.396,82,1,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,1,87.695,88,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,1,87.906,89,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,1,88.413,81,0,Dry,3
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,1,88.423,83,0,Dry,4
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Medium,1,88.479,78,0,Dry,5
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,1,88.622,87,0,Dry,6
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,1,88.662,86,0,Dry,7
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,1,88.778,77,0,Dry,8
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,1,88.811,78,0,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Medium,1,89.165,81,0,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,2,88.311,75,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,2,89.136,76,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,2,89.067,70,0,Dry,3
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,2,89.186,69,0,Dry,4
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Medium,2,89.447,64,0,Dry,5
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,2,89.286,73,0,Dry,6
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,2,89.425,77,0,Dry,7
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,2,89.36,69,0,Dry,8
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,2,89.744,67,0,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Medium,2,90.082,66,0,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,3,89.567,60,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,3,89.21,66,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,3,89.818,58,0,Dry,3
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,3,90.159,54,0,Dry,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,3,89.817,67,0,Dry,5
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,3,89.705,59,0,Dry,6
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,3,90.395,58,0,Dry,7
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Medium,3,90.521,53,0,Dry,8
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,3,90.165,52,0,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Medium,3,90.751,52,0,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,4,90.041,46,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,4,90.127,53,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,4,90.568,47,0,Dry,3
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,4,90.322,47,0,Dry,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,4,90.525,54,0,Dry,5
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,4,90.783,43,0,Dry,6
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Medium,4,90.72,41,0,Dry,7
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,4,91.175,43,0,Dry,8
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,4,91.236,42,0,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Medium,4,91.452,38,0,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,5,91.193,35,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,5,90.844,40,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,5,91.031,36,0,Dry,3
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,5,90.946,37,0,Dry,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,5,91.242,42,0,Dry,5
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,5,91.638,31,0,Dry,6
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Medium,5,91.328,25,0,Dry,7
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,5,91.932,30,0,Dry,8
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,5,92.039,31,0,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Medium,5,92.559,25,0,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Medium,6,91.84,24,0,Dry,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Medium,6,91.622,30,0,Dry,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Medium,6,91.997,21,0,Dry,3
+SIL_2026,Silverstone,Lando Norris,McLaren,Medium,6,92.085,22,0,Dry,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Medium,6,91.64,32,0,Dry,5
+SIL_2026,Silverstone,George Russell,Mercedes,Medium,6,92.35,18,0,Dry,6
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Medium,6,92.431,19,0,Dry,7
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Medium,6,92.509,20,0,Dry,8
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Hard,6,110.228,100,1,Dry,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Hard,6,111.168,100,1,Dry,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Intermediate,7,116.175,100,1,Light Rain,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Intermediate,7,116.302,100,1,Light Rain,2
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Intermediate,7,116.871,100,1,Light Rain,3
+SIL_2026,Silverstone,Lando Norris,McLaren,Intermediate,7,116.578,100,1,Light Rain,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Intermediate,7,116.806,100,1,Light Rain,5
+SIL_2026,Silverstone,George Russell,Mercedes,Intermediate,7,116.773,100,1,Light Rain,6
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Intermediate,7,116.874,100,1,Light Rain,7
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Intermediate,7,116.892,100,1,Light Rain,8
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Intermediate,7,116.709,100,2,Light Rain,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Intermediate,7,117.064,100,2,Light Rain,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Intermediate,8,88.24,88,1,Light Rain,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Intermediate,8,88.561,89,1,Light Rain,2
+SIL_2026,Silverstone,Lando Norris,McLaren,Intermediate,8,88.482,86,1,Light Rain,3
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Intermediate,8,88.842,84,1,Light Rain,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Intermediate,8,88.852,84,1,Light Rain,5
+SIL_2026,Silverstone,George Russell,Mercedes,Intermediate,8,88.7,83,1,Light Rain,6
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Intermediate,8,88.999,86,1,Light Rain,7
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Intermediate,8,88.653,85,1,Light Rain,8
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Intermediate,8,88.536,88,2,Light Rain,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Intermediate,8,89.74,88,2,Light Rain,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Intermediate,9,89.219,77,1,Light Rain,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Intermediate,9,89.23,75,1,Light Rain,2
+SIL_2026,Silverstone,Lando Norris,McLaren,Intermediate,9,89.397,69,1,Light Rain,3
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Intermediate,9,89.525,73,1,Light Rain,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Intermediate,9,89.706,71,1,Light Rain,5
+SIL_2026,Silverstone,George Russell,Mercedes,Intermediate,9,89.631,68,1,Light Rain,6
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Intermediate,9,89.541,72,1,Light Rain,7
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Intermediate,9,89.811,71,1,Light Rain,8
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Intermediate,9,89.063,75,2,Light Rain,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Intermediate,9,89.683,75,2,Light Rain,10
+SIL_2026,Silverstone,Max Verstappen,Red Bull Racing,Intermediate,10,89.669,61,1,Light Rain,1
+SIL_2026,Silverstone,Charles Leclerc,Ferrari,Intermediate,10,89.751,62,1,Light Rain,2
+SIL_2026,Silverstone,Lando Norris,McLaren,Intermediate,10,90.174,57,1,Light Rain,3
+SIL_2026,Silverstone,Oscar Piastri,McLaren,Intermediate,10,90.209,56,1,Light Rain,4
+SIL_2026,Silverstone,Fernando Alonso,Aston Martin,Intermediate,10,90.637,58,1,Light Rain,5
+SIL_2026,Silverstone,George Russell,Mercedes,Intermediate,10,90.597,55,1,Light Rain,6
+SIL_2026,Silverstone,Liam Lawson,Red Bull Racing,Intermediate,10,90.618,60,1,Light Rain,7
+SIL_2026,Silverstone,Kimi Antonelli,Mercedes,Intermediate,10,90.646,59,1,Light Rain,8
+SIL_2026,Silverstone,Lewis Hamilton,Ferrari,Intermediate,10,90.064,63,2,Light Rain,9
+SIL_2026,Silverstone,Lance Stroll,Aston Martin,Intermediate,10,90.519,59,2,Light Rain,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,1,81.214,92,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,1,81.44,93,0,Dry,2
+MNZ_2026,Monza,George Russell,Mercedes,Medium,1,81.488,86,0,Dry,3
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,1,81.533,85,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,1,81.674,85,0,Dry,5
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,1,81.725,85,0,Dry,6
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,1,81.827,91,0,Dry,7
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,1,81.831,82,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,1,81.945,83,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,1,82.735,90,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,2,81.539,83,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,2,81.611,85,0,Dry,2
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,2,81.671,79,0,Dry,3
+MNZ_2026,Monza,George Russell,Mercedes,Medium,2,81.881,79,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,2,81.867,76,0,Dry,5
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,2,81.891,85,0,Dry,6
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,2,82.178,73,0,Dry,7
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,2,82.317,78,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,2,82.418,74,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,2,82.385,83,0,Dry,10
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,3,81.49,77,0,Dry,1
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,3,82.181,77,0,Dry,2
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,3,82.024,69,0,Dry,3
+MNZ_2026,Monza,George Russell,Mercedes,Medium,3,82.097,73,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,3,82.044,70,0,Dry,5
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,3,82.051,79,0,Dry,6
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,3,82.458,63,0,Dry,7
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,3,82.206,66,0,Dry,8
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,3,82.62,70,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,3,82.736,73,0,Dry,10
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,4,81.949,68,0,Dry,1
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,4,81.835,69,0,Dry,2
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,4,82.017,60,0,Dry,3
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,4,82.263,72,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,4,82.474,62,0,Dry,5
+MNZ_2026,Monza,George Russell,Mercedes,Medium,4,82.77,67,0,Dry,6
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,4,82.712,55,0,Dry,7
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,4,82.867,56,0,Dry,8
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,4,82.824,64,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,4,83.137,66,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,5,82.109,60,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,5,82.55,61,0,Dry,2
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,5,82.625,50,0,Dry,3
+MNZ_2026,Monza,George Russell,Mercedes,Medium,5,82.37,58,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,5,82.608,52,0,Dry,5
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,5,82.944,66,0,Dry,6
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,5,83.081,48,0,Dry,7
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,5,82.852,56,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,5,83.177,49,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,5,83.301,57,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,6,82.353,52,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,6,82.824,53,0,Dry,2
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,6,83.308,44,0,Dry,3
+MNZ_2026,Monza,George Russell,Mercedes,Medium,6,82.641,51,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,6,82.969,45,0,Dry,5
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,6,82.908,59,0,Dry,6
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,6,83.111,48,0,Dry,7
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,6,83.616,40,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,6,83.607,42,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,6,83.695,49,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,7,82.699,44,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,7,82.74,44,0,Dry,2
+MNZ_2026,Monza,George Russell,Mercedes,Medium,7,83.113,43,0,Dry,3
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,7,83.083,35,0,Dry,4
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,7,83.576,36,0,Dry,5
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,7,82.993,52,0,Dry,6
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,7,83.259,39,0,Dry,7
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,7,82.937,30,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,7,83.675,35,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,7,83.866,39,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,8,83.411,37,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,8,83.254,37,0,Dry,2
+MNZ_2026,Monza,George Russell,Mercedes,Medium,8,83.267,36,0,Dry,3
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,8,83.329,42,0,Dry,4
+MNZ_2026,Monza,Oscar Piastri,McLaren,Medium,8,83.602,26,0,Dry,5
+MNZ_2026,Monza,Lando Norris,McLaren,Medium,8,83.604,28,0,Dry,6
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,8,83.895,32,0,Dry,7
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Medium,8,84.099,21,0,Dry,8
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Medium,8,83.672,25,0,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,8,84.143,31,0,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,9,83.416,30,0,Dry,1
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Medium,9,83.273,27,0,Dry,2
+MNZ_2026,Monza,George Russell,Mercedes,Medium,9,84.072,30,0,Dry,3
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,9,83.737,32,0,Dry,4
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Medium,9,83.705,23,0,Dry,5
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Medium,9,84.386,25,0,Dry,6
+MNZ_2026,Monza,Lando Norris,McLaren,Hard,9,103.303,100,1,Dry,7
+MNZ_2026,Monza,Oscar Piastri,McLaren,Hard,9,103.536,100,1,Dry,8
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Hard,9,103.685,100,1,Dry,9
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Hard,9,103.769,100,1,Dry,10
+MNZ_2026,Monza,Max Verstappen,Red Bull Racing,Medium,10,83.603,22,0,Dry,1
+MNZ_2026,Monza,George Russell,Mercedes,Medium,10,83.954,23,0,Dry,2
+MNZ_2026,Monza,Fernando Alonso,Aston Martin,Medium,10,84.202,24,0,Dry,3
+MNZ_2026,Monza,Charles Leclerc,Ferrari,Hard,10,103.453,100,1,Dry,4
+MNZ_2026,Monza,Lando Norris,McLaren,Hard,10,80.942,95,1,Dry,5
+MNZ_2026,Monza,Oscar Piastri,McLaren,Hard,10,80.935,94,1,Dry,6
+MNZ_2026,Monza,Lewis Hamilton,Ferrari,Hard,10,80.744,93,1,Dry,7
+MNZ_2026,Monza,Liam Lawson,Red Bull Racing,Hard,10,81.011,95,1,Dry,8
+MNZ_2026,Monza,Kimi Antonelli,Mercedes,Hard,10,103.525,100,1,Dry,9
+MNZ_2026,Monza,Lance Stroll,Aston Martin,Hard,10,104.163,100,1,Dry,10
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Medium,1,105.66,86,0,Dry,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Medium,1,105.693,84,0,Dry,2
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Medium,1,105.76,88,0,Dry,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Medium,1,105.86,82,0,Dry,4
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Medium,1,106.071,80,0,Dry,5
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Medium,1,106.089,87,0,Dry,6
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Medium,1,106.141,83,0,Dry,7
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Medium,1,106.144,83,0,Dry,8
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Medium,1,106.16,88,0,Dry,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Medium,1,106.6,83,0,Dry,10
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Medium,2,106.257,71,0,Dry,1
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Medium,2,106.275,75,0,Dry,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Medium,2,106.43,73,0,Dry,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Medium,2,106.532,73,0,Dry,4
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Medium,2,106.582,78,0,Dry,5
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Medium,2,106.63,77,0,Dry,6
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Medium,2,106.819,68,0,Dry,7
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Medium,2,106.837,73,0,Dry,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Medium,2,106.95,69,0,Dry,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Medium,2,107.179,74,0,Dry,10
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Medium,3,106.991,58,0,Dry,1
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Medium,3,107.038,66,0,Dry,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Medium,3,107.339,61,0,Dry,3
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Medium,3,106.813,68,0,Dry,4
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Medium,3,107.184,61,0,Dry,5
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Medium,3,106.931,61,0,Dry,6
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Medium,3,107.145,57,0,Dry,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Medium,3,107.25,67,0,Dry,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Medium,3,107.593,56,0,Dry,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Medium,3,107.769,65,0,Dry,10
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Medium,4,107.135,56,0,Dry,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Medium,4,107.65,47,0,Dry,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Medium,4,107.462,51,0,Dry,3
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Medium,4,107.516,55,0,Dry,4
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Medium,4,107.606,49,0,Dry,5
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Medium,4,107.722,56,0,Dry,6
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Medium,4,107.91,48,0,Dry,7
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Medium,4,107.872,44,0,Dry,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Medium,4,108.002,47,0,Dry,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Medium,4,108.009,55,0,Dry,10
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Intermediate,5,133.769,100,1,Light Rain,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Intermediate,5,133.802,100,1,Light Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Intermediate,5,133.959,100,1,Light Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Intermediate,5,133.877,100,1,Light Rain,4
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Intermediate,5,134.442,100,1,Light Rain,5
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Intermediate,5,134.115,100,1,Light Rain,6
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Intermediate,5,134.144,100,1,Light Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Intermediate,5,134.321,100,1,Light Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Intermediate,5,134.394,100,1,Light Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Intermediate,5,134.762,100,1,Light Rain,10
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Intermediate,6,106.077,89,1,Light Rain,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Intermediate,6,106.056,90,1,Light Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Intermediate,6,106.071,88,1,Light Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Intermediate,6,106.128,91,1,Light Rain,4
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Intermediate,6,106.27,86,1,Light Rain,5
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Intermediate,6,106.247,87,1,Light Rain,6
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Intermediate,6,106.304,89,1,Light Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Intermediate,6,106.558,85,1,Light Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Intermediate,6,106.666,86,1,Light Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Intermediate,6,106.701,89,1,Light Rain,10
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Intermediate,7,106.686,77,1,Light Rain,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Intermediate,7,106.603,77,1,Light Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Intermediate,7,106.794,75,1,Light Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Intermediate,7,106.636,76,1,Light Rain,4
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Intermediate,7,107.112,72,1,Light Rain,5
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Intermediate,7,106.696,80,1,Light Rain,6
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Intermediate,7,107.052,76,1,Light Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Intermediate,7,107.308,75,1,Light Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Intermediate,7,107.41,71,1,Light Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Intermediate,7,107.277,74,1,Light Rain,10
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Wet,8,139.837,100,2,Heavy Rain,1
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Wet,8,139.604,100,2,Heavy Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Wet,8,139.873,100,2,Heavy Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Wet,8,139.813,100,2,Heavy Rain,4
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Wet,8,139.912,100,2,Heavy Rain,5
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Wet,8,140.011,100,2,Heavy Rain,6
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Wet,8,140.238,100,2,Heavy Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Wet,8,140.494,100,2,Heavy Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Wet,8,140.09,100,2,Heavy Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Wet,8,140.305,100,2,Heavy Rain,10
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Wet,9,106.399,89,2,Heavy Rain,1
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Wet,9,106.692,84,2,Heavy Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Wet,9,106.555,86,2,Heavy Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Wet,9,107.068,85,2,Heavy Rain,4
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Wet,9,106.318,87,2,Heavy Rain,5
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Wet,9,107.027,85,2,Heavy Rain,6
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Wet,9,106.663,85,2,Heavy Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Wet,9,107.221,89,2,Heavy Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Wet,9,106.842,90,2,Heavy Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Wet,9,107.296,87,2,Heavy Rain,10
+SPA_2026,Spa-Francorchamps,Max Verstappen,Red Bull Racing,Wet,10,106.954,73,2,Heavy Rain,1
+SPA_2026,Spa-Francorchamps,Lando Norris,McLaren,Wet,10,107.168,71,2,Heavy Rain,2
+SPA_2026,Spa-Francorchamps,Charles Leclerc,Ferrari,Wet,10,107.714,71,2,Heavy Rain,3
+SPA_2026,Spa-Francorchamps,Oscar Piastri,McLaren,Wet,10,107.764,70,2,Heavy Rain,4
+SPA_2026,Spa-Francorchamps,Lewis Hamilton,Ferrari,Wet,10,107.14,73,2,Heavy Rain,5
+SPA_2026,Spa-Francorchamps,Kimi Antonelli,Mercedes,Wet,10,107.706,69,2,Heavy Rain,6
+SPA_2026,Spa-Francorchamps,George Russell,Mercedes,Wet,10,107.802,74,2,Heavy Rain,7
+SPA_2026,Spa-Francorchamps,Fernando Alonso,Aston Martin,Wet,10,107.595,77,2,Heavy Rain,8
+SPA_2026,Spa-Francorchamps,Liam Lawson,Red Bull Racing,Wet,10,107.549,74,2,Heavy Rain,9
+SPA_2026,Spa-Francorchamps,Lance Stroll,Aston Martin,Wet,10,108.301,72,2,Heavy Rain,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,1,92.063,87,0,Dry,1
+BHR_2026,Bahrain,Lando Norris,McLaren,Medium,1,92.532,80,0,Dry,2
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Medium,1,92.605,82,0,Dry,3
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Medium,1,92.651,83,0,Dry,4
+BHR_2026,Bahrain,George Russell,Mercedes,Medium,1,92.666,85,0,Dry,5
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Medium,1,92.868,78,0,Dry,6
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Medium,1,92.872,83,0,Dry,7
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Medium,1,93.083,81,0,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Medium,1,93.353,80,0,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Medium,1,93.881,74,0,Dry,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,2,93.384,71,0,Dry,1
+BHR_2026,Bahrain,George Russell,Mercedes,Medium,2,93.712,69,0,Dry,2
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Medium,2,93.75,70,0,Dry,3
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Medium,2,93.953,66,0,Dry,4
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Medium,2,93.791,65,0,Dry,5
+BHR_2026,Bahrain,Lando Norris,McLaren,Medium,2,94.129,62,0,Dry,6
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Medium,2,93.894,65,0,Dry,7
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Medium,2,94.262,70,0,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Medium,2,94.085,68,0,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Medium,2,95.073,57,0,Dry,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,3,94.752,59,0,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Medium,3,94.758,55,0,Dry,2
+BHR_2026,Bahrain,George Russell,Mercedes,Medium,3,94.895,52,0,Dry,3
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Medium,3,95.024,50,0,Dry,4
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Medium,3,94.928,47,0,Dry,5
+BHR_2026,Bahrain,Lando Norris,McLaren,Medium,3,94.949,44,0,Dry,6
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Medium,3,95.146,54,0,Dry,7
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Medium,3,95.538,54,0,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Medium,3,95.298,54,0,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Medium,3,95.944,43,0,Dry,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,4,95.001,45,0,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Medium,4,95.439,42,0,Dry,2
+BHR_2026,Bahrain,George Russell,Mercedes,Medium,4,96.248,35,0,Dry,3
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Medium,4,96.104,32,0,Dry,4
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Medium,4,96.197,31,0,Dry,5
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Medium,4,95.774,37,0,Dry,6
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Medium,4,95.614,42,0,Dry,7
+BHR_2026,Bahrain,Lando Norris,McLaren,Medium,4,96.689,27,0,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Medium,4,96.044,36,0,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Medium,4,97.23,27,0,Dry,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,5,96.262,31,0,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Medium,5,96.424,27,0,Dry,2
+BHR_2026,Bahrain,George Russell,Mercedes,Medium,5,96.943,23,0,Dry,3
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Medium,5,96.999,13,0,Dry,4
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Medium,5,97.232,20,0,Dry,5
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Medium,5,96.807,27,0,Dry,6
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Medium,5,97.188,22,0,Dry,7
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Medium,5,97.425,22,0,Dry,8
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,5,114.796,100,1,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,5,115.309,100,1,Dry,10
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Medium,6,97.16,18,0,Dry,1
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,6,92.161,89,1,Dry,2
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Hard,6,114.594,100,1,Dry,3
+BHR_2026,Bahrain,George Russell,Mercedes,Hard,6,114.755,100,1,Dry,4
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Hard,6,114.573,100,1,Dry,5
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Hard,6,114.791,100,1,Dry,6
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Hard,6,115.172,100,1,Dry,7
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,6,92.734,90,1,Dry,8
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Hard,6,115.0,100,1,Dry,9
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Hard,6,114.907,100,1,Dry,10
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,7,93.049,81,1,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Hard,7,92.366,88,1,Dry,2
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Hard,7,92.074,88,1,Dry,3
+BHR_2026,Bahrain,George Russell,Mercedes,Hard,7,92.28,88,1,Dry,4
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Hard,7,92.189,90,1,Dry,5
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Hard,7,92.456,88,1,Dry,6
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Hard,7,92.455,90,1,Dry,7
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Hard,7,114.904,100,1,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Hard,7,92.46,90,1,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,7,93.531,79,1,Dry,10
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,8,93.58,70,1,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Hard,8,93.118,79,1,Dry,2
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Hard,8,92.759,76,1,Dry,3
+BHR_2026,Bahrain,George Russell,Mercedes,Hard,8,93.428,79,1,Dry,4
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Hard,8,93.081,80,1,Dry,5
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Hard,8,92.868,79,1,Dry,6
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Hard,8,91.95,88,1,Dry,7
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Hard,8,93.789,81,1,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Hard,8,93.14,80,1,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,8,94.595,67,1,Dry,10
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,9,94.119,61,1,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Hard,9,93.479,69,1,Dry,2
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Hard,9,93.575,66,1,Dry,3
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Hard,9,92.809,80,1,Dry,4
+BHR_2026,Bahrain,George Russell,Mercedes,Hard,9,93.607,70,1,Dry,5
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Hard,9,93.557,72,1,Dry,6
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Hard,9,93.722,71,1,Dry,7
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Hard,9,93.614,70,1,Dry,8
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Hard,9,94.15,73,1,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,9,95.384,55,1,Dry,10
+BHR_2026,Bahrain,Lando Norris,McLaren,Hard,10,94.66,51,1,Dry,1
+BHR_2026,Bahrain,Oscar Piastri,McLaren,Hard,10,94.324,57,1,Dry,2
+BHR_2026,Bahrain,Max Verstappen,Red Bull Racing,Hard,10,93.369,70,1,Dry,3
+BHR_2026,Bahrain,Lewis Hamilton,Ferrari,Hard,10,94.563,54,1,Dry,4
+BHR_2026,Bahrain,Charles Leclerc,Ferrari,Hard,10,93.903,64,1,Dry,5
+BHR_2026,Bahrain,George Russell,Mercedes,Hard,10,94.629,58,1,Dry,6
+BHR_2026,Bahrain,Liam Lawson,Red Bull Racing,Hard,10,94.698,59,1,Dry,7
+BHR_2026,Bahrain,Fernando Alonso,Aston Martin,Hard,10,94.227,64,1,Dry,8
+BHR_2026,Bahrain,Kimi Antonelli,Mercedes,Hard,10,94.652,59,1,Dry,9
+BHR_2026,Bahrain,Lance Stroll,Aston Martin,Hard,10,95.809,45,1,Dry,10
